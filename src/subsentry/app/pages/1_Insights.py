@@ -285,75 +285,75 @@ else:
     # 4) Calendar heatmap (spend intensity) - per selected month
     with mc1:
         st.markdown("**Calendar heatmap (daily expenses)**")
-
-    if df_month.empty:
-        st.info("No data in this month.")
-    else:
-        daily = (
-            df_month[df_month["amount"] < 0]
-            .assign(expense=lambda d: -d["amount"])
-            .groupby("date", as_index=False)["expense"]
-            .sum()
-        )
-
-        y, m = map(int, month.split("-"))
-        first = date(y, m, 1)
-        last = date(y, m, monthrange(y, m)[1])
-
-        cal = pd.DataFrame({"date": pd.date_range(first, last, freq="D")})
-        cal["weekday"] = cal["date"].dt.weekday  # Mon=0
-        cal["week"] = ((cal["date"].dt.day + first.weekday() - 1) // 7).astype(int)
-
-        # Keep consistent dtype for merge keys
-        cal["date"] = pd.to_datetime(cal["date"])
-        daily = daily.copy()
-        daily["date"] = pd.to_datetime(daily["date"])
-
-        cal = cal.merge(daily.rename(columns={"expense": "value"}), on="date", how="left")
-        cal["value"] = cal["value"].fillna(0.0)
-
-        # Add day-of-month label for each calendar cell (so it's easy to tell which day a box is)
-        cal["day_label"] = cal["date"].dt.day.astype(str)
-
-        weekdays = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
-        pivot_val = (
-            cal.pivot(index="week", columns="weekday", values="value")
-            .reindex(columns=range(7))
-            .fillna(0.0)
-        )
-        pivot_day = (
-            cal.pivot(index="week", columns="weekday", values="day_label")
-            .reindex(columns=range(7))
-        )
-
-        # Custom hover with exact date + amount
-        cal["date_str"] = cal["date"].dt.strftime("%Y-%m-%d")
-        pivot_date = (
-            cal.pivot(index="week", columns="weekday", values="date_str")
-            .reindex(columns=range(7))
-        )
-
-        fig4 = go.Figure(
-            data=go.Heatmap(
-                z=pivot_val.values,
-                x=weekdays,
-                y=[f"Week {i+1}" for i in pivot_val.index],
-                text=pivot_day.values,                 # day numbers in the cells
-                texttemplate="%{text}",                # render day numbers
-                textfont=dict(size=12),
-                xgap=1,
-                ygap=1,
-                colorscale="RdYlGn_r",                 # higher spend = red
-                customdata=pivot_date.values,
-                hovertemplate=(
-                    "Date: %{customdata}<br>"
-                    "Spend: %{z:.2f} " + currency +
-                    "<extra></extra>"
-                ),
+    
+        if df_month.empty:
+            st.info("No data in this month.")
+        else:
+            daily = (
+                df_month[df_month["amount"] < 0]
+                .assign(expense=lambda d: -d["amount"])
+                .groupby("date", as_index=False)["expense"]
+                .sum()
             )
-        )
-        fig4.update_layout(xaxis_title="", yaxis_title="", margin=dict(l=10, r=10, t=40, b=10))
-        st.plotly_chart(fig4, use_container_width=True)
+    
+            y, m = map(int, month.split("-"))
+            first = date(y, m, 1)
+            last = date(y, m, monthrange(y, m)[1])
+    
+            cal = pd.DataFrame({"date": pd.date_range(first, last, freq="D")})
+            cal["weekday"] = cal["date"].dt.weekday  # Mon=0
+            cal["week"] = ((cal["date"].dt.day + first.weekday() - 1) // 7).astype(int)
+    
+            # Keep consistent dtype for merge keys
+            cal["date"] = pd.to_datetime(cal["date"])
+            daily = daily.copy()
+            daily["date"] = pd.to_datetime(daily["date"])
+    
+            cal = cal.merge(daily.rename(columns={"expense": "value"}), on="date", how="left")
+            cal["value"] = cal["value"].fillna(0.0)
+    
+            # Add day-of-month label for each calendar cell (so it's easy to tell which day a box is)
+            cal["day_label"] = cal["date"].dt.day.astype(str)
+    
+            weekdays = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+            pivot_val = (
+                cal.pivot(index="week", columns="weekday", values="value")
+                .reindex(columns=range(7))
+                .fillna(0.0)
+            )
+            pivot_day = (
+                cal.pivot(index="week", columns="weekday", values="day_label")
+                .reindex(columns=range(7))
+            )
+    
+            # Custom hover with exact date + amount
+            cal["date_str"] = cal["date"].dt.strftime("%Y-%m-%d")
+            pivot_date = (
+                cal.pivot(index="week", columns="weekday", values="date_str")
+                .reindex(columns=range(7))
+            )
+    
+            fig4 = go.Figure(
+                data=go.Heatmap(
+                    z=pivot_val.values,
+                    x=weekdays,
+                    y=[f"Week {i+1}" for i in pivot_val.index],
+                    text=pivot_day.values,                 # day numbers in the cells
+                    texttemplate="%{text}",                # render day numbers
+                    textfont=dict(size=12),
+                    xgap=1,
+                    ygap=1,
+                    colorscale="RdYlGn_r",                 # higher spend = red
+                    customdata=pivot_date.values,
+                    hovertemplate=(
+                        "Date: %{customdata}<br>"
+                        "Spend: %{z:.2f} " + currency +
+                        "<extra></extra>"
+                    ),
+                )
+            )
+            fig4.update_layout(xaxis_title="", yaxis_title="", margin=dict(l=10, r=10, t=40, b=10))
+            st.plotly_chart(fig4, use_container_width=True)
 
 
     with mc2:
