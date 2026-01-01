@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.dist/
+.build/
+.venv/
+.env
+.env.*
+pip-wheel-metadata/
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# App data
+data/
+*.db
+*.sqlite
+*.sqlite3
+logs/
+exports/
+
+# OS
+.DS_Store
+Thumbs.db
