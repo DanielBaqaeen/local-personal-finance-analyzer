@@ -1,6 +1,8 @@
-# local personal finance analyzer
+# Local Personal Finance Analyzer
 
 The application imports bank/credit-card CSV statements, normalizes merchants, detects recurring charges, flags changes (price/frequency/duplicates/new subscriptions), detects anomalies, and generates a monthly insights export
+
+Download the test statements from the test-dataset folder in the repo and try the live demo: https://personal-finance-analyzer-demo.streamlit.app/
 
 - **Everything is local**: 
     - CSV statements are imported on your machine
