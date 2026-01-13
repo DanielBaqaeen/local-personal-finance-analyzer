@@ -1,0 +1,67 @@
+date,description,category,amount,currency,account,id
+2024-11-01,APARTMENT RENT,Housing,-1195.09,USD,Checking,202411-0000
+2024-11-01,Walmart #6346,Shopping,-230.77,USD,Checking,202411-0001
+2024-11-01,Starbucks*471,Dining,-26.22,USD,Checking,202411-0002
+2024-11-02,Whole Foods,Groceries,-185.49,USD,Checking,202411-0003
+2024-11-02,Shell,Transport,-68.36,USD,Checking,202411-0004
+2024-11-03,Amazon.COM,Shopping,-234.18,USD,Checking,202411-0005
+2024-11-03,DOMINO'S,Dining,-44.29,USD,Checking,202411-0006
+2024-11-03,Netflix #6142,Subscription,-15.49,USD,Checking,202411-0007
+2024-11-03,PAYPAL *Trader Joe's,Groceries,-124.48,USD,Checking,202411-0008
+2024-11-04,Subway.COM,Dining,-51.26,USD,Checking,202411-0009
+2024-11-05,Payroll,Income,3394.53,USD,Checking,202411-0010
+2024-11-05,PAYPAL *Kroger,Groceries,-198.05,USD,Checking,202411-0011
+2024-11-05,PAYPAL *Subway,Dining,-28.5,USD,Checking,202411-0012
+2024-11-06,Starbucks.COM,Dining,-8.03,USD,Checking,202411-0013
+2024-11-07,Domino's.COM,Dining,-22.44,USD,Checking,202411-0014
+2024-11-07,PAYPAL *Safeway,Groceries,-189.1,USD,Checking,202411-0015
+2024-11-07,City Water.COM,Utilities,-18.91,USD,Checking,202411-0016
+2024-11-09,Safeway.COM,Groceries,-99.02,USD,Checking,202411-0017
+2024-11-09,PAYPAL *Electric Co,Utilities,-66.57,USD,Checking,202411-0018
+2024-11-09,Subway,Dining,-9.21,USD,Checking,202411-0019
+2024-11-09,Shell*419,Transport,-42.99,USD,Checking,202411-0020
+2024-11-10,Safeway.COM,Groceries,-111.66,USD,Checking,202411-0021
+2024-11-10,Spotify,Subscription,-11.99,USD,Checking,202411-0022
+2024-11-10,Domino's,Dining,-39.65,USD,Checking,202411-0023
+2024-11-12,Target*722,Shopping,-144.61,USD,Checking,202411-0024
+2024-11-12,Internet Provider*555,Utilities,-59.99,USD,Checking,202411-0025
+2024-11-13,Trader Joe's #3833,Groceries,-59.24,USD,Checking,202411-0026
+2024-11-14,STARBUCKS,Dining,-48.81,USD,Checking,202411-0027
+2024-11-15,Walmart,Shopping,-224.38,USD,Checking,202411-0028
+2024-11-15,Electronics Outlet.COM,Other,-842.41,USD,Checking,202411-0029
+2024-11-15,PAYPAL *Gym Membership,Subscription,-39.99,USD,Checking,202411-0030
+2024-11-16,BP,Transport,-57.44,USD,Checking,202411-0031
+2024-11-16,Safeway.COM,Groceries,-80.96,USD,Checking,202411-0032
+2024-11-16,Panera Bread*520,Dining,-26.16,USD,Checking,202411-0033
+2024-11-17,Whole Foods.COM,Groceries,-176.99,USD,Checking,202411-0034
+2024-11-17,Whole Foods*249,Groceries,-33.66,USD,Checking,202411-0035
+2024-11-17,PAYPAL *Subway,Dining,-18.27,USD,Checking,202411-0036
+2024-11-18,ICLOUD STORAGE,Subscription,-2.99,USD,Checking,202411-0037
+2024-11-20,Payroll #5883,Income,2429.9,USD,Checking,202411-0038
+2024-11-21,Panera Bread.COM,Dining,-9.28,USD,Checking,202411-0039
+2024-11-21,Panera Bread #227,Dining,-18.36,USD,Checking,202411-0040
+2024-11-22,Panera Bread,Dining,-26.64,USD,Checking,202411-0041
+2024-11-22,PAYPAL *Target,Shopping,-109.77,USD,Checking,202411-0042
+2024-11-22,Adobe*487,Subscription,-19.99,USD,Checking,202411-0043
+2024-11-23,Subway #2770,Dining,-37.35,USD,Checking,202411-0044
+2024-11-23,Shell #813,Transport,-34.36,USD,Checking,202411-0045
+2024-11-23,Target #1302,Shopping,-97.7,USD,Checking,202411-0046
+2024-11-25,Panera Bread,Dining,-21.59,USD,Checking,202411-0047
+2024-11-26,Online Services.COM,Fraud?,-1.7,USD,Checking,202411-0048
+2024-11-26,Online Services,Fraud?,-1.03,USD,Checking,202411-0049
+2024-11-26,Online Services*342,Fraud?,-1.74,USD,Checking,202411-0050
+2024-11-26,PAYPAL *Online Services,Fraud?,-2.5,USD,Checking,202411-0051
+2024-11-26,Online Services,Fraud?,-2.06,USD,Checking,202411-0052
+2024-11-26,Online Services #6439,Fraud?,-1.82,USD,Checking,202411-0053
+2024-11-26,Online Services*257,Fraud?,-1.8,USD,Checking,202411-0054
+2024-11-26,Online Services.COM,Fraud?,-1.05,USD,Checking,202411-0055
+2024-11-26,Online Services,Fraud?,-2.77,USD,Checking,202411-0056
+2024-11-26,PAYPAL *Online Services,Fraud?,-3.2,USD,Checking,202411-0057
+2024-11-26,Chipotle*133,Dining,-32.83,USD,Checking,202411-0058
+2024-11-27,Subway #9754,Dining,-24.87,USD,Checking,202411-0059
+2024-11-28,TARGET,Shopping,-205.83,USD,Checking,202411-0060
+2024-11-28,Safeway,Groceries,-131.22,USD,Checking,202411-0061
+2024-11-29,Amazon,Shopping,-100.97,USD,Checking,202411-0062
+2024-11-30,PAYPAL *Walmart,Shopping,-186.44,USD,Checking,202411-0063
+2024-11-30,Amazon #2069,Shopping,-281.59,USD,Checking,202411-0064
+2024-11-30,Exxon,Transport,-69.75,USD,Checking,202411-0065

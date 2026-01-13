@@ -1,0 +1,57 @@
+date,description,category,amount,currency,account,id
+2024-09-01,PAYPAL *Apartment Rent,Housing,-1203.89,USD,Checking,202409-0000
+2024-09-02,WALMART,Shopping,-96.28,USD,Checking,202409-0001
+2024-09-02,Starbucks #7585,Dining,-11.13,USD,Checking,202409-0002
+2024-09-02,BP #8025,Transport,-34.43,USD,Checking,202409-0003
+2024-09-03,Trader Joe's*970,Groceries,-85.77,USD,Checking,202409-0004
+2024-09-03,Starbucks.COM,Dining,-25.02,USD,Checking,202409-0005
+2024-09-03,NETFLIX,Subscription,-15.49,USD,Checking,202409-0006
+2024-09-03,Safeway.COM,Groceries,-90.67,USD,Checking,202409-0007
+2024-09-03,Trader Joe's.COM,Groceries,-179.57,USD,Checking,202409-0008
+2024-09-04,Starbucks*421,Dining,-30.87,USD,Checking,202409-0009
+2024-09-04,PAYPAL *Best Buy,Shopping,-240.46,USD,Checking,202409-0010
+2024-09-05,PAYPAL *Payroll,Income,2661.91,USD,Checking,202409-0011
+2024-09-05,Safeway.COM,Groceries,-115.87,USD,Checking,202409-0012
+2024-09-06,Domino's.COM,Dining,-43.58,USD,Checking,202409-0013
+2024-09-06,DOMINO'S,Dining,-30.16,USD,Checking,202409-0014
+2024-09-06,Chipotle #3824,Dining,-8.67,USD,Checking,202409-0015
+2024-09-07,City Water.COM,Utilities,-30.5,USD,Checking,202409-0016
+2024-09-08,Subway,Dining,-34.83,USD,Checking,202409-0017
+2024-09-09,Exxon #3527,Transport,-42.98,USD,Checking,202409-0018
+2024-09-09,PANERA BREAD,Dining,-18.81,USD,Checking,202409-0019
+2024-09-09,Domino's.COM,Dining,-48.81,USD,Checking,202409-0020
+2024-09-09,Subway #1981,Dining,-34.52,USD,Checking,202409-0021
+2024-09-09,Electric Co #645,Utilities,-122.19,USD,Checking,202409-0022
+2024-09-09,Kroger,Groceries,-48.36,USD,Checking,202409-0023
+2024-09-09,Whole Foods #391,Groceries,-145.83,USD,Checking,202409-0024
+2024-09-10,PAYPAL *Chipotle,Dining,-17.9,USD,Checking,202409-0025
+2024-09-10,Trader Joe's,Groceries,-50.61,USD,Checking,202409-0026
+2024-09-10,PAYPAL *Whole Foods,Groceries,-114.94,USD,Checking,202409-0027
+2024-09-10,PAYPAL *Spotify,Subscription,-9.99,USD,Checking,202409-0028
+2024-09-11,Chipotle*937,Dining,-28.16,USD,Checking,202409-0029
+2024-09-11,Starbucks*867,Dining,-48.12,USD,Checking,202409-0030
+2024-09-11,Domino's #9579,Dining,-44.63,USD,Checking,202409-0031
+2024-09-11,Chipotle #6099,Dining,-49.1,USD,Checking,202409-0032
+2024-09-12,PAYPAL *Internet Provider,Utilities,-59.99,USD,Checking,202409-0033
+2024-09-13,SUBWAY,Dining,-44.03,USD,Checking,202409-0034
+2024-09-14,Walmart*746,Shopping,-85.17,USD,Checking,202409-0035
+2024-09-15,Gym Membership.COM,Subscription,-39.99,USD,Checking,202409-0036
+2024-09-16,Whole Foods.COM,Groceries,-75.98,USD,Checking,202409-0037
+2024-09-16,Shell #1150,Transport,-67.36,USD,Checking,202409-0038
+2024-09-16,Whole Foods,Groceries,-199.14,USD,Checking,202409-0039
+2024-09-18,iCloud Storage,Subscription,-2.99,USD,Checking,202409-0040
+2024-09-20,Payroll.COM,Income,2679.68,USD,Checking,202409-0041
+2024-09-21,ELECTRONICS OUTLET,Other,-734.12,USD,Checking,202409-0042
+2024-09-22,Adobe.COM,Subscription,-19.99,USD,Checking,202409-0043
+2024-09-23,BP.COM,Transport,-68.91,USD,Checking,202409-0044
+2024-09-23,PAYPAL *Best Buy,Shopping,-181.42,USD,Checking,202409-0045
+2024-09-23,Walmart*462,Shopping,-231.09,USD,Checking,202409-0046
+2024-09-23,Whole Foods,Groceries,-127.13,USD,Checking,202409-0047
+2024-09-24,PAYPAL *Walmart,Shopping,-302.05,USD,Checking,202409-0048
+2024-09-24,Safeway #6991,Groceries,-88.58,USD,Checking,202409-0049
+2024-09-25,Domino's.COM,Dining,-20.8,USD,Checking,202409-0050
+2024-09-25,DOMINO'S,Dining,-44.86,USD,Checking,202409-0051
+2024-09-27,Chipotle #3525,Dining,-35.94,USD,Checking,202409-0052
+2024-09-28,DOMINO'S,Dining,-32.63,USD,Checking,202409-0053
+2024-09-30,Shell,Transport,-44.9,USD,Checking,202409-0054
+2024-09-30,Target,Shopping,-238.41,USD,Checking,202409-0055

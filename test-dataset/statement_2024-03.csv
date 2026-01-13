@@ -1,0 +1,52 @@
+date,description,category,amount,currency,account,id
+2024-03-01,Apartment Rent*647,Housing,-1014.76,USD,Checking,202403-0000
+2024-03-01,TRADER JOE'S,Groceries,-99.72,USD,Checking,202403-0001
+2024-03-02,Trader Joe's.COM,Groceries,-126.2,USD,Checking,202403-0002
+2024-03-02,SHELL,Transport,-51.45,USD,Checking,202403-0003
+2024-03-03,Best Buy.COM,Shopping,-115.57,USD,Checking,202403-0004
+2024-03-03,Netflix #5879,Subscription,-15.49,USD,Checking,202403-0005
+2024-03-05,PAYPAL *Payroll,Income,2652.07,USD,Checking,202403-0006
+2024-03-05,Walmart #8273,Shopping,-151.63,USD,Checking,202403-0007
+2024-03-05,Subway.COM,Dining,-51.79,USD,Checking,202403-0008
+2024-03-05,Trader Joe's*900,Groceries,-88.84,USD,Checking,202403-0009
+2024-03-05,Whole Foods.COM,Groceries,-164.51,USD,Checking,202403-0010
+2024-03-07,Safeway #7112,Groceries,-118.59,USD,Checking,202403-0011
+2024-03-07,Electronics Outlet,Other,-685.04,USD,Checking,202403-0012
+2024-03-07,City Water.COM,Utilities,-34.26,USD,Checking,202403-0013
+2024-03-08,Amazon #2076,Shopping,-154.64,USD,Checking,202403-0014
+2024-03-09,Exxon*272,Transport,-32.6,USD,Checking,202403-0015
+2024-03-09,Electric Co,Utilities,-101.45,USD,Checking,202403-0016
+2024-03-10,PAYPAL *Domino's,Dining,-43.65,USD,Checking,202403-0017
+2024-03-10,Spotify.COM,Subscription,-9.99,USD,Checking,202403-0018
+2024-03-11,Best Buy,Shopping,-31.4,USD,Checking,202403-0019
+2024-03-11,Domino's,Dining,-41.98,USD,Checking,202403-0020
+2024-03-12,Chipotle #2412,Dining,-15.03,USD,Checking,202403-0021
+2024-03-12,Whole Foods,Groceries,-101.88,USD,Checking,202403-0022
+2024-03-12,Walmart #3905,Shopping,-184.47,USD,Checking,202403-0023
+2024-03-12,Internet Provider.COM,Utilities,-59.99,USD,Checking,202403-0024
+2024-03-14,KROGER,Groceries,-118.36,USD,Checking,202403-0025
+2024-03-15,GYM MEMBERSHIP,Subscription,-39.99,USD,Checking,202403-0026
+2024-03-16,WHOLE FOODS,Groceries,-54.78,USD,Checking,202403-0027
+2024-03-16,Shell.COM,Transport,-40.64,USD,Checking,202403-0028
+2024-03-17,Subway,Dining,-28.79,USD,Checking,202403-0029
+2024-03-17,PAYPAL *Starbucks,Dining,-39.09,USD,Checking,202403-0030
+2024-03-18,iCloud Storage.COM,Subscription,-2.99,USD,Checking,202403-0031
+2024-03-19,Chipotle.COM,Dining,-38.84,USD,Checking,202403-0032
+2024-03-19,Panera Bread,Dining,-24.99,USD,Checking,202403-0033
+2024-03-20,Payroll #1956,Income,3192.42,USD,Checking,202403-0034
+2024-03-21,Best Buy #6823,Shopping,-46.48,USD,Checking,202403-0035
+2024-03-21,Safeway,Groceries,-32.61,USD,Checking,202403-0036
+2024-03-21,Starbucks.COM,Dining,-8.41,USD,Checking,202403-0037
+2024-03-22,PAYPAL *Domino's,Dining,-49.28,USD,Checking,202403-0038
+2024-03-22,Best Buy #9644,Shopping,-122.35,USD,Checking,202403-0039
+2024-03-23,Shell #8907,Transport,-37.52,USD,Checking,202403-0040
+2024-03-25,Starbucks.COM,Dining,-23.09,USD,Checking,202403-0041
+2024-03-27,Chipotle #8451,Dining,-44.14,USD,Checking,202403-0042
+2024-03-27,Best Buy*538,Shopping,-303.82,USD,Checking,202403-0043
+2024-03-28,PAYPAL *Whole Foods,Groceries,-130.68,USD,Checking,202403-0044
+2024-03-29,CHIPOTLE,Dining,-34.54,USD,Checking,202403-0045
+2024-03-29,Safeway*730,Groceries,-140.83,USD,Checking,202403-0046
+2024-03-30,PAYPAL *Target,Shopping,-113.23,USD,Checking,202403-0047
+2024-03-30,PAYPAL *Exxon,Transport,-61.37,USD,Checking,202403-0048
+2024-03-31,Subway #6820,Dining,-53.56,USD,Checking,202403-0049
+2024-03-31,KROGER,Groceries,-143.16,USD,Checking,202403-0050

@@ -1,0 +1,52 @@
+date,description,category,amount,currency,account,id
+2025-03-01,SUBWAY,Dining,-37.89,USD,Checking,202503-0000
+2025-03-01,Apartment Rent,Housing,-1198.1,USD,Checking,202503-0001
+2025-03-02,PAYPAL *Trader Joe's,Groceries,-69.83,USD,Checking,202503-0002
+2025-03-02,BP,Transport,-36.99,USD,Checking,202503-0003
+2025-03-03,Netflix*526,Subscription,-15.49,USD,Checking,202503-0004
+2025-03-03,Netflix #9074,Subscription,-15.49,USD,Checking,202503-0005
+2025-03-05,PAYROLL,Income,2414.56,USD,Checking,202503-0006
+2025-03-06,PAYPAL *Panera Bread,Dining,-29.02,USD,Checking,202503-0007
+2025-03-06,Amazon*447,Shopping,-123.19,USD,Checking,202503-0008
+2025-03-07,Whole Foods,Groceries,-101.64,USD,Checking,202503-0009
+2025-03-07,Domino's.COM,Dining,-13.27,USD,Checking,202503-0010
+2025-03-07,City Water.COM,Utilities,-23.71,USD,Checking,202503-0011
+2025-03-08,Safeway.COM,Groceries,-167.66,USD,Checking,202503-0012
+2025-03-09,Amazon,Shopping,-231.22,USD,Checking,202503-0013
+2025-03-09,AMAZON,Shopping,-216.08,USD,Checking,202503-0014
+2025-03-09,Kroger #6478,Groceries,-55.96,USD,Checking,202503-0015
+2025-03-09,Electric Co,Utilities,-79.45,USD,Checking,202503-0016
+2025-03-09,BP*923,Transport,-33.96,USD,Checking,202503-0017
+2025-03-10,Spotify*610,Subscription,-11.99,USD,Checking,202503-0018
+2025-03-10,Trader Joe's #1106,Groceries,-148.07,USD,Checking,202503-0019
+2025-03-10,Starbucks,Dining,-9.76,USD,Checking,202503-0020
+2025-03-11,Panera Bread.COM,Dining,-47.77,USD,Checking,202503-0021
+2025-03-11,Whole Foods #9869,Groceries,-33.95,USD,Checking,202503-0022
+2025-03-12,PAYPAL *Starbucks,Dining,-39.91,USD,Checking,202503-0023
+2025-03-12,Internet Provider*841,Utilities,-69.99,USD,Checking,202503-0024
+2025-03-13,Kroger.COM,Groceries,-154.04,USD,Checking,202503-0025
+2025-03-14,Panera Bread #7040,Dining,-14.78,USD,Checking,202503-0026
+2025-03-15,Gym Membership #7844,Subscription,-39.99,USD,Checking,202503-0027
+2025-03-15,Kroger.COM,Groceries,-32.25,USD,Checking,202503-0028
+2025-03-15,PAYPAL *Chipotle,Dining,-40.74,USD,Checking,202503-0029
+2025-03-16,Exxon #9025,Transport,-63.37,USD,Checking,202503-0030
+2025-03-16,Target.COM,Shopping,-221.91,USD,Checking,202503-0031
+2025-03-17,Kroger #4374,Groceries,-124.95,USD,Checking,202503-0032
+2025-03-17,Chipotle*534,Dining,-41.86,USD,Checking,202503-0033
+2025-03-18,iCloud Storage #1483,Subscription,-2.99,USD,Checking,202503-0034
+2025-03-20,PAYPAL *Safeway,Groceries,-108.0,USD,Checking,202503-0035
+2025-03-20,PAYPAL *Subway,Dining,-47.02,USD,Checking,202503-0036
+2025-03-20,Payroll.COM,Income,2838.2,USD,Checking,202503-0037
+2025-03-21,SAFEWAY,Groceries,-150.72,USD,Checking,202503-0038
+2025-03-22,Adobe*127,Subscription,-19.99,USD,Checking,202503-0039
+2025-03-23,SHELL,Transport,-53.97,USD,Checking,202503-0040
+2025-03-23,Kroger,Groceries,-52.26,USD,Checking,202503-0041
+2025-03-24,CHIPOTLE,Dining,-24.2,USD,Checking,202503-0042
+2025-03-24,PAYPAL *Trader Joe's,Groceries,-105.17,USD,Checking,202503-0043
+2025-03-25,Chipotle.COM,Dining,-53.55,USD,Checking,202503-0044
+2025-03-25,Subway,Dining,-51.44,USD,Checking,202503-0045
+2025-03-26,Chipotle*968,Dining,-15.3,USD,Checking,202503-0046
+2025-03-27,PAYPAL *Amazon,Shopping,-290.27,USD,Checking,202503-0047
+2025-03-30,BP.COM,Transport,-34.09,USD,Checking,202503-0048
+2025-03-30,PAYPAL *Safeway,Groceries,-171.76,USD,Checking,202503-0049
+2025-03-31,Amazon,Shopping,-258.01,USD,Checking,202503-0050

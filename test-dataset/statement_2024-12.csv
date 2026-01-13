@@ -1,0 +1,58 @@
+date,description,category,amount,currency,account,id
+2024-12-01,Apartment Rent*511,Housing,-1288.55,USD,Checking,202412-0000
+2024-12-02,Subway,Dining,-33.69,USD,Checking,202412-0001
+2024-12-02,Domino's,Dining,-17.2,USD,Checking,202412-0002
+2024-12-02,TRADER JOE'S,Groceries,-156.59,USD,Checking,202412-0003
+2024-12-02,PAYPAL *Exxon,Transport,-53.29,USD,Checking,202412-0004
+2024-12-03,Netflix,Subscription,-15.49,USD,Checking,202412-0005
+2024-12-03,PAYPAL *Netflix,Subscription,-15.49,USD,Checking,202412-0006
+2024-12-03,Amazon*564,Shopping,-38.01,USD,Checking,202412-0007
+2024-12-04,PANERA BREAD,Dining,-21.84,USD,Checking,202412-0008
+2024-12-05,Panera Bread #4516,Dining,-39.16,USD,Checking,202412-0009
+2024-12-05,PAYPAL *Whole Foods,Groceries,-87.96,USD,Checking,202412-0010
+2024-12-05,Payroll,Income,2619.81,USD,Checking,202412-0011
+2024-12-06,Chipotle #6204,Dining,-36.86,USD,Checking,202412-0012
+2024-12-06,Subway,Dining,-29.32,USD,Checking,202412-0013
+2024-12-06,TRADER JOE'S,Groceries,-175.4,USD,Checking,202412-0014
+2024-12-07,City Water #8937,Utilities,-29.5,USD,Checking,202412-0015
+2024-12-07,Domino's,Dining,-27.47,USD,Checking,202412-0016
+2024-12-07,Panera Bread #4207,Dining,-35.11,USD,Checking,202412-0017
+2024-12-07,Subway*305,Dining,-13.98,USD,Checking,202412-0018
+2024-12-09,Electric Co.COM,Utilities,-107.56,USD,Checking,202412-0019
+2024-12-09,Trader Joe's.COM,Groceries,-142.36,USD,Checking,202412-0020
+2024-12-09,Kroger,Groceries,-197.56,USD,Checking,202412-0021
+2024-12-09,Shell,Transport,-55.32,USD,Checking,202412-0022
+2024-12-09,PAYPAL *Safeway,Groceries,-112.36,USD,Checking,202412-0023
+2024-12-10,Spotify,Subscription,-11.99,USD,Checking,202412-0024
+2024-12-10,Domino's #3867,Dining,-34.82,USD,Checking,202412-0025
+2024-12-10,Safeway,Groceries,-56.19,USD,Checking,202412-0026
+2024-12-11,SUBWAY,Dining,-32.14,USD,Checking,202412-0027
+2024-12-12,PAYPAL *Amazon,Shopping,-243.9,USD,Checking,202412-0028
+2024-12-12,Internet Provider.COM,Utilities,-59.99,USD,Checking,202412-0029
+2024-12-13,Amazon*928,Shopping,-313.21,USD,Checking,202412-0030
+2024-12-13,Chipotle #7940,Dining,-15.0,USD,Checking,202412-0031
+2024-12-15,WALMART,Shopping,-161.23,USD,Checking,202412-0032
+2024-12-15,PAYPAL *Whole Foods,Groceries,-91.9,USD,Checking,202412-0033
+2024-12-15,GYM MEMBERSHIP,Subscription,-39.99,USD,Checking,202412-0034
+2024-12-15,Walmart.COM,Shopping,-271.54,USD,Checking,202412-0035
+2024-12-16,BP*205,Transport,-37.61,USD,Checking,202412-0036
+2024-12-18,Target*930,Shopping,-192.09,USD,Checking,202412-0037
+2024-12-18,Walmart.COM,Shopping,-31.36,USD,Checking,202412-0038
+2024-12-18,Amazon,Shopping,-262.48,USD,Checking,202412-0039
+2024-12-18,iCloud Storage*786,Subscription,-2.99,USD,Checking,202412-0040
+2024-12-19,Whole Foods.COM,Groceries,-165.36,USD,Checking,202412-0041
+2024-12-20,Payroll*337,Income,2777.33,USD,Checking,202412-0042
+2024-12-21,Walmart.COM,Shopping,-20.67,USD,Checking,202412-0043
+2024-12-21,Trader Joe's*395,Groceries,-51.14,USD,Checking,202412-0044
+2024-12-22,KROGER,Groceries,-163.75,USD,Checking,202412-0045
+2024-12-22,PAYPAL *Adobe,Subscription,-19.99,USD,Checking,202412-0046
+2024-12-22,PANERA BREAD,Dining,-53.24,USD,Checking,202412-0047
+2024-12-23,Exxon.COM,Transport,-69.97,USD,Checking,202412-0048
+2024-12-23,Domino's.COM,Dining,-43.05,USD,Checking,202412-0049
+2024-12-24,Trader Joe's*906,Groceries,-192.72,USD,Checking,202412-0050
+2024-12-25,Subway*305,Dining,-10.48,USD,Checking,202412-0051
+2024-12-27,Target.COM,Shopping,-158.44,USD,Checking,202412-0052
+2024-12-28,PAYPAL *Trader Joe's,Groceries,-123.84,USD,Checking,202412-0053
+2024-12-29,Domino's #9832,Dining,-28.53,USD,Checking,202412-0054
+2024-12-30,CHIPOTLE,Dining,-54.43,USD,Checking,202412-0055
+2024-12-30,Shell,Transport,-61.86,USD,Checking,202412-0056

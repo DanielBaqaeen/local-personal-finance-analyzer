@@ -1,0 +1,69 @@
+date,description,category,amount,currency,account,id
+2025-02-01,Chipotle,Dining,-43.76,USD,Checking,202502-0000
+2025-02-01,Apartment Rent #6683,Housing,-930.73,USD,Checking,202502-0001
+2025-02-01,Kroger,Groceries,-31.69,USD,Checking,202502-0002
+2025-02-01,Panera Bread #4336,Dining,-44.6,USD,Checking,202502-0003
+2025-02-02,PAYPAL *Target,Shopping,-93.73,USD,Checking,202502-0004
+2025-02-02,PAYPAL *Shell,Transport,-45.58,USD,Checking,202502-0005
+2025-02-03,Trader Joe's #2891,Groceries,-31.22,USD,Checking,202502-0006
+2025-02-03,NETFLIX,Subscription,-15.49,USD,Checking,202502-0007
+2025-02-03,PAYPAL *Whole Foods,Groceries,-71.98,USD,Checking,202502-0008
+2025-02-05,PAYPAL *Payroll,Income,3298.42,USD,Checking,202502-0009
+2025-02-05,Kroger*632,Groceries,-127.42,USD,Checking,202502-0010
+2025-02-05,PAYPAL *Domino's,Dining,-11.75,USD,Checking,202502-0011
+2025-02-07,Chipotle.COM,Dining,-51.63,USD,Checking,202502-0012
+2025-02-07,City Water*586,Utilities,-18.39,USD,Checking,202502-0013
+2025-02-08,PAYPAL *Kroger,Groceries,-28.88,USD,Checking,202502-0014
+2025-02-08,Electronics Outlet #6078,Other,-502.54,USD,Checking,202502-0015
+2025-02-09,Exxon.COM,Transport,-48.77,USD,Checking,202502-0016
+2025-02-09,Trader Joe's,Groceries,-52.06,USD,Checking,202502-0017
+2025-02-09,Electric Co.COM,Utilities,-84.23,USD,Checking,202502-0018
+2025-02-10,CHIPOTLE,Dining,-24.66,USD,Checking,202502-0019
+2025-02-10,Target,Shopping,-62.18,USD,Checking,202502-0020
+2025-02-10,Spotify.COM,Subscription,-11.99,USD,Checking,202502-0021
+2025-02-11,Whole Foods #9325,Groceries,-169.38,USD,Checking,202502-0022
+2025-02-12,AMAZON,Shopping,-75.57,USD,Checking,202502-0023
+2025-02-12,Internet Provider,Utilities,-59.99,USD,Checking,202502-0024
+2025-02-13,SAFEWAY,Groceries,-125.96,USD,Checking,202502-0025
+2025-02-13,SUBWAY,Dining,-48.39,USD,Checking,202502-0026
+2025-02-13,Safeway,Groceries,-152.54,USD,Checking,202502-0027
+2025-02-13,Starbucks.COM,Dining,-45.49,USD,Checking,202502-0028
+2025-02-13,Kroger #4697,Groceries,-105.4,USD,Checking,202502-0029
+2025-02-14,STARBUCKS,Dining,-24.33,USD,Checking,202502-0030
+2025-02-14,Best Buy*556,Shopping,-172.29,USD,Checking,202502-0031
+2025-02-14,Whole Foods,Groceries,-184.98,USD,Checking,202502-0032
+2025-02-14,PAYPAL *Subway,Dining,-33.73,USD,Checking,202502-0033
+2025-02-15,CHIPOTLE,Dining,-14.02,USD,Checking,202502-0034
+2025-02-15,Gym Membership.COM,Subscription,-39.99,USD,Checking,202502-0035
+2025-02-16,Best Buy #5898,Shopping,-140.98,USD,Checking,202502-0036
+2025-02-16,BP*199,Transport,-65.11,USD,Checking,202502-0037
+2025-02-18,PAYPAL *iCloud Storage,Subscription,-2.99,USD,Checking,202502-0038
+2025-02-18,PAYPAL *Walmart,Shopping,-265.49,USD,Checking,202502-0039
+2025-02-19,Starbucks,Dining,-21.73,USD,Checking,202502-0040
+2025-02-20,Chipotle*575,Dining,-38.07,USD,Checking,202502-0041
+2025-02-20,Payroll*463,Income,2696.33,USD,Checking,202502-0042
+2025-02-21,Panera Bread.COM,Dining,-51.21,USD,Checking,202502-0043
+2025-02-21,Starbucks #371,Dining,-33.33,USD,Checking,202502-0044
+2025-02-22,PAYPAL *Trader Joe's,Groceries,-131.91,USD,Checking,202502-0045
+2025-02-22,Adobe,Subscription,-19.99,USD,Checking,202502-0046
+2025-02-23,BP,Transport,-43.12,USD,Checking,202502-0047
+2025-02-24,KROGER,Groceries,-160.17,USD,Checking,202502-0048
+2025-02-24,Best Buy #4655,Shopping,-257.66,USD,Checking,202502-0049
+2025-02-26,Online Services #778,Fraud?,-1.25,USD,Checking,202502-0050
+2025-02-26,Online Services #632,Fraud?,-2.42,USD,Checking,202502-0051
+2025-02-26,Online Services,Fraud?,-1.19,USD,Checking,202502-0052
+2025-02-26,Online Services*421,Fraud?,-1.83,USD,Checking,202502-0053
+2025-02-26,Online Services #3195,Fraud?,-2.45,USD,Checking,202502-0054
+2025-02-26,ONLINE SERVICES,Fraud?,-1.32,USD,Checking,202502-0055
+2025-02-26,Online Services,Fraud?,-2.94,USD,Checking,202502-0056
+2025-02-26,Online Services*791,Fraud?,-1.96,USD,Checking,202502-0057
+2025-02-26,Online Services,Fraud?,-2.74,USD,Checking,202502-0058
+2025-02-26,Online Services*536,Fraud?,-1.23,USD,Checking,202502-0059
+2025-02-27,KROGER,Groceries,-29.92,USD,Checking,202502-0060
+2025-02-27,Amazon*182,Shopping,-133.93,USD,Checking,202502-0061
+2025-02-27,PAYPAL *Best Buy,Shopping,-220.98,USD,Checking,202502-0062
+2025-02-27,STARBUCKS,Dining,-32.57,USD,Checking,202502-0063
+2025-02-27,Best Buy*399,Shopping,-298.4,USD,Checking,202502-0064
+2025-02-28,DOMINO'S,Dining,-29.32,USD,Checking,202502-0065
+2025-02-28,PAYPAL *Kroger,Groceries,-172.08,USD,Checking,202502-0066
+2025-02-28,PAYPAL *Chipotle,Dining,-51.62,USD,Checking,202502-0067

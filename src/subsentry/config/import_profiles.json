@@ -1,0 +1,8 @@
+{
+  "profiles": [
+    {
+      "name": "generic",
+      "notes": "Auto-detected mapping based on column names. Extend with bank-specific formats if needed."
+    }
+  ]
+}
