@@ -12,7 +12,7 @@ from subsentry.db.models import Transaction
 from subsentry.privacy.encryption import load_key
 from datetime import datetime
 
-st.set_page_config(page_title="Subscriptions/ Recurring Charges", layout="wide")
+st.set_page_config(page_title="Subscriptions/ Recurring Charges", layout="wide", initial_sidebar_state="expanded")
 cfg = load_config()
 SessionFactory = make_session_factory(cfg.db_path)
 

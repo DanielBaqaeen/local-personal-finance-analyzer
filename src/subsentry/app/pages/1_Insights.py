@@ -19,7 +19,7 @@ from subsentry.llm.ollama import OllamaConfig
 from subsentry.llm.intents import parse_intent
 from subsentry.llm.explain import summarize_trends
 
-st.set_page_config(page_title="Insights", layout="wide")
+st.set_page_config(page_title="Insights", layout="wide", initial_sidebar_state="expanded")
 cfg = load_config()
 SessionFactory = make_session_factory(cfg.db_path)
 

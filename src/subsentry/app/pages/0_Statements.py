@@ -13,7 +13,7 @@ from subsentry.privacy.encryption import load_key
 from subsentry.core.ingest import ingest_csv
 from subsentry.core.engine import recompute
 
-st.set_page_config(page_title="Statements", layout="wide")
+st.set_page_config(page_title="Statements", layout="wide", initial_sidebar_state="expanded")
 
 cfg = load_config()
 cfg.data_dir.mkdir(parents=True, exist_ok=True)

@@ -8,7 +8,7 @@ from subsentry.db.session import make_session_factory
 from subsentry.db.repo import Repo, EncryptionCtx
 from subsentry.privacy.encryption import init_key, maybe_encrypt
 
-st.set_page_config(page_title="Settings", layout="wide")
+st.set_page_config(page_title="Settings", layout="wide", initial_sidebar_state="expanded")
 cfg = load_config()
 SessionFactory = make_session_factory(cfg.db_path)
 
